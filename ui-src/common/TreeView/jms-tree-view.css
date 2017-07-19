@@ -1,0 +1,23 @@
+.treeRoot {
+}
+
+.listRow {
+  display: flex;
+  margin: 5px 0;
+}
+.titleDiv {
+  color: PaleGoldenrod;
+  cursor: pointer;
+}
+
+.showChildren {
+  cursor: pointer;
+  height: 1em;
+  margin-right: .6em;
+  width: 1em;
+}
+
+.childrenDiv {
+  margin-left: 26px;
+  padding: 0;
+}

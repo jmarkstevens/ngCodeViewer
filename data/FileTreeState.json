@@ -1,0 +1,32 @@
+{
+  "id": "nodeid",
+  "selected": "ngCodeViewer/ui-src/app.js",
+  "showChildren": {
+    "ReactNativePatterns": 1,
+    "ReactNativePatterns/General": 1,
+    "ReactNativePatterns/General/ListViewer": 1,
+    "ngClippets": 0,
+    "ngClippets/ui-src": 1,
+    "ngClippets/ui-src/components": 1,
+    "ngClippets/wp": 1,
+    "ngClippets/data": 0,
+    "ngClippets/ui-src/components/TreeView": 1,
+    "PalmInfo": 0,
+    "PalmInfo/ui-src": 0,
+    "PalmInfo/ui-src/components": 1,
+    "PalmInfo/ui-src/components/species": 0,
+    "PalmInfo/ui-src/components/species/thumbs": 1,
+    "ngCodeViewer": 1,
+    "ngCodeViewer/data": 0,
+    "ngCodeViewer/ui-src": 1,
+    "ngCodeViewer/ui-src/store": 1,
+    "ngCodeViewer/ui-src/store/tree": 1,
+    "ngCodeViewer/js": 1,
+    "ngCodeViewer/js/routes": 1,
+    "PalmInfo/js": 0,
+    "PalmInfo/js/routes": 1,
+    "PalmInfo/data": 0,
+    "PalmInfo/data/dist": 0,
+    "PalmInfo/ui-src/components/common": 1
+  }
+}

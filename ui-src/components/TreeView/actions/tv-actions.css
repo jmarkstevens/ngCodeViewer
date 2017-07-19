@@ -1,0 +1,22 @@
+.rootDiv {
+  color: Khaki;
+  text-align: center;
+}
+
+.treeActions {
+  font-size: .9em;
+  height: 40px;
+  margin-bottom: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.spacerSpanSty {
+  margin: 0 5px;
+}
+
+.itemDetail, .typeDiv {
+  font-size: 1em;
+  margin: 1em auto 0;
+  width: 300px;
+}

@@ -1,0 +1,19 @@
+<ng-template #treeView let-treeList>
+  <div id="treeRoot" class="treeRoot" *ngFor="let item of treeList; let i = index">
+    <div id="listRow" class="listRow">
+      <img id="showChildren" class="showChildren" src="{{getIconBack(item)}}" (click)="iconClick(item)" />
+      <div
+        id="titleDiv"
+        class="titleDiv"
+        (click)="titleClick(item)"
+        [ngStyle]="{'color': getTitleColor(item)}"
+      >
+        {{item.title}}
+      </div>
+    </div>
+    <div id="childrenDiv" class="childrenDiv" *ngIf="tvState.showChildren[item[tvState.id]]">
+      <ng-container *ngTemplateOutlet="treeView; context:{$implicit: item.children}"></ng-container>
+    </div>
+  </div>
+</ng-template>
+<ng-container *ngTemplateOutlet="treeView; context:{$implicit: treeList}"></ng-container>

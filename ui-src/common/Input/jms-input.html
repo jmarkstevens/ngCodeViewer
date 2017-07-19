@@ -1,0 +1,80 @@
+<span class="rootDiv" [ngSwitch]="input.type">
+  <input
+    #inputRadio
+    type="radio"
+    class="input"
+    [checked]="input.value"
+    [ngStyle]="input.style"
+    (change)="valueChanged(input.radioValue);"
+    *ngSwitchCase="'radio'"
+  />
+  <input
+    #inputNumber
+    type="range"
+    class="input"
+    [value]="input.initValue"
+    [ngStyle]="input.style"
+    (change)="valueChanged(inputNumber.value);"
+    min="input.min" max="input.max" step="input.step"
+    *ngSwitchCase="'range'"
+  />
+  <input
+    #inputNumber
+    type="number"
+    class="input"
+    [value]="input.initValue"
+    [ngStyle]="input.style"
+    (change)="valueChanged(inputNumber.value);"
+    min="input.min" max="input.max" step="input.step"
+    *ngSwitchCase="'number'"
+  />
+  <input
+    #inputFile
+    type="file"
+    class="input"
+    [ngStyle]="input.style"
+    (change)="textChanged(inputFile.value, input.value);"
+    *ngSwitchCase="'file'"
+  />
+  <input
+    #inputColor
+    type="color"
+    class="input"
+    [value]="input.initValue"
+    [ngStyle]="input.style"
+    (change)="textChanged(inputColor.value, input.value);"
+    *ngSwitchCase="'color'"
+  />
+  <input
+    #inputCheckbox
+    type="checkbox"
+    class="input"
+    [checked]="input.initValue"
+    [ngStyle]="input.style"
+    (change)="valueChanged(inputCheckbox.checked);"
+    *ngSwitchCase="'checkbox'"
+  />
+  <input
+    #inputTextFocus
+    type="text"
+    class="input"
+    [value]="input.initValue"
+    [ngStyle]="input.style"
+    (keyup.esc)="inputText.value='' "
+    (keyup.enter)="textChanged(inputTextFocus.value, input.value);"
+    (blur)="textChanged(inputTextFocus.value, input.value);"
+    *ngSwitchCase="'text-focus'"
+    autofocus
+  />
+  <input
+    #inputText
+    type="text"
+    class="input"
+    [value]="input.initValue"
+    [ngStyle]="input.style"
+    (keyup.esc)="inputText.value='' "
+    (keyup.enter)="textChanged(inputText.value, input.value);"
+    (blur)="textChanged(inputText.value, input.value);"
+    *ngSwitchDefault
+  />
+</span>

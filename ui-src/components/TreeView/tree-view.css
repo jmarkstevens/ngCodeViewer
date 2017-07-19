@@ -1,0 +1,10 @@
+.rootDiv {
+  color: Khaki;
+  margin: 0;
+  text-align: left;
+}
+.treeDiv {
+  height: calc(100vh - 40px);
+  min-width: 300px;
+  overflow: auto;
+}

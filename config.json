@@ -1,0 +1,14 @@
+{
+  "darwin": {
+    "readRoot": "/Users/janaka/Kykas/Projects/",
+    "dataRoot": "/Users/janaka/Kykas/Projects/ngCodeViewer/data/"
+  },
+  "linux": {
+    "readRoot": "/var/www/CodeView/",
+    "dataRoot": "/var/www/ngCodeViewer/data/"
+  },
+  "win32": {
+    "readRoot": "/Users/janaka/Kykas/Projects/",
+    "dataRoot": "/Users/janaka/Kykas/Projects/ngCodeViewer/data/"
+  }
+}

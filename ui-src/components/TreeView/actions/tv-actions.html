@@ -1,0 +1,36 @@
+<div class="rootDiv">
+  <div id="treeActions" class="treeActions">
+    <jms-button [btn]="btns.newBtn" (onBtnClicked)="clickHandler(btns.newBtn.buttonid)"></jms-button>
+    <span class="spacerSpanSty">&nbsp;</span>
+    <jms-button [btn]="btns.editBtn" (onBtnClicked)="clickHandler(btns.editBtn.buttonid)"></jms-button>
+    <span class="spacerSpanSty">&nbsp;</span>
+    <jms-button [btn]="btns.moveUpBtn" (onBtnClicked)="clickHandler(btns.moveUpBtn.buttonid)"></jms-button>
+    <span class="spacerSpanSty">&nbsp;</span>
+    <jms-button [btn]="btns.moveDownBtn" (onBtnClicked)="clickHandler(btns.moveDownBtn.buttonid)"></jms-button>
+    <span class="spacerSpanSty">&nbsp;</span>
+    <jms-button [btn]="btns.removeBtn" (onBtnClicked)="clickHandler(btns.removeBtn.buttonid)"></jms-button>
+  </div>
+  <div id="editActions" class="editActions" *ngIf="showEdit">
+    <jms-button [btn]="btns.saveEditBtn" (onBtnClicked)="clickHandler(btns.saveEditBtn.buttonid)"></jms-button>
+    <span class="spacerSpanSty">&nbsp;</span>
+    <jms-button [btn]="btns.cancelEditBtn" (onBtnClicked)="clickHandler(btns.cancelEditBtn.buttonid)"></jms-button>
+  </div>
+  <div id="newActions" class="newActions" *ngIf="showNew">
+    <jms-button [btn]="btns.saveNewAfterBtn" (onBtnClicked)="clickHandler(btns.saveNewAfterBtn.buttonid)"></jms-button>
+    <span class="spacerSpanSty">&nbsp;</span>
+    <jms-button [btn]="btns.saveNewBeforeBtn" (onBtnClicked)="clickHandler(btns.saveNewBeforeBtn.buttonid)"></jms-button>
+    <span class="spacerSpanSty">&nbsp;</span>
+    <jms-button [btn]="btns.saveNewChildBtn" (onBtnClicked)="clickHandler(btns.saveNewChildBtn.buttonid)"></jms-button>
+    <span class="spacerSpanSty">&nbsp;</span>
+    <jms-button [btn]="btns.cancelNewBtn" (onBtnClicked)="clickHandler(btns.cancelNewBtn.buttonid)"></jms-button>
+  </div>
+  <div id="itemDetail" class="itemDetail" *ngIf="showEdit || showNew">
+    <jms-input [input]="titleInput" (onValueChanged)="onValueChanged($event, titleInput)"></jms-input>
+    <div class="typeDiv">
+      Item type<br />
+      Dev: <jms-input [input]="radioInput1" (onValueChanged)="onValueChanged($event, radioInput1)"></jms-input>
+      Sys: <jms-input [input]="radioInput2" (onValueChanged)="onValueChanged($event, radioInput2)"></jms-input>
+      Home: <jms-input [input]="radioInput3" (onValueChanged)="onValueChanged($event, radioInput3)"></jms-input>
+    </div>
+  </div>
+</div>

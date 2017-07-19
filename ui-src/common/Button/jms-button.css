@@ -1,0 +1,99 @@
+.rootDiv {
+  color: yellow;
+  text-align: center;
+}
+
+.Btn {
+  background-color: #9a6;
+  border-bottom-color: #cea;
+  border-left-color: #93a363;
+  border-right-color: #cea;
+  border-top-color: #93a363;
+  border-radius: 6px;
+  color: #eeffee;
+  cursor: pointer;
+  line-height: 100%;
+  outline: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  z-index: 5;
+}
+
+.Btn:hover {
+  opacity: 0.9;
+}
+
+.Btn:active {
+  transform: translateY(1px);
+}
+
+.Icon {
+  background-color: transparent;
+  background-image: none;
+  background-size: cover;
+  border: 0px;
+  color: #4d2c3d;
+  cursor: pointer;
+  height: inherit;
+  margin: 0 3px;
+  outline: none;
+  padding: 0px;
+  vertical-align: middle;
+  width: inherit;
+}
+
+.Icon:hover {
+  opacity: 0.9;
+}
+
+.Icon:active {
+  transform: translateY(1px);
+}
+
+.Btn18 {
+  font-size: 0.8em;
+  height: 18px;
+  margin: 0 2px;
+  min-width: 52px;
+  padding: 2px;
+}
+
+.Btn24 {
+  font-size: 0.9em;
+  height: 24px;
+  margin: 0 5px;
+  padding: 0.3em;
+}
+
+.Btn30 {
+  font-size: 0.9em;
+  height: 30px;
+  margin: 0 5px;
+  padding: 0.45em;
+}
+
+.Btn40 {
+  font-size: 1.1em;
+  height: 40px;
+  margin: 0 5px;
+  padding: 0.45em .8em;
+}
+
+.Btn16m {
+  height: 24px;
+  margin: 0 2px;
+  padding: 0.1em 0.3em 0.3em;
+}
+
+.Btn24m {
+  height: 30px;
+  margin: 0 5px;
+  padding: 0.3rem;
+}
+
+.Btn30m {
+  font-size: 1.1em;
+  height: 40px;
+  margin: 0 5px;
+  padding: 0.45em .8em;
+}

@@ -1,0 +1,61 @@
+{
+  "name": "ngCodeViewer",
+  "version": "1.0.0",
+  "description": "A simple angular code viewer app.",
+  "license": "MIT",
+  "author": {
+    "name": "J Mark Stevens",
+    "email": "jmstevens@jmarkstevens.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarkstevens/ngCodeViewer.git"
+  },
+  "scripts": {
+    "start": "nodemon --watch js js/server.js",
+    "ww": "webpack --config wp/wp.config.js --progress --profile --colors --env.noMinimize --watch",
+    "nw": "webpack --config wp/wp.config.js --progress --profile --colors --env.noMinimize",
+    "build": "webpack --config wp/wp.config.js --progress --profile --colors --env.production"
+  },
+  "dependencies": {
+    "async": "latest",
+    "express": "latest",
+    "highlights": "latest",
+    "marked": "latest",
+    "remarkable": "latest",
+    "serve-favicon": "latest",
+    "socket.io": "latest",
+    "@angular-redux/store": "latest",
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/platform-browser-dynamic": "^4.0.0",
+    "core-js": "latest",
+    "lodash": "latest",
+    "redux": "latest",
+    "redux-logger": "latest",
+    "redux-thunk": "latest",
+    "reflect-metadata": "latest",
+    "rxjs": "latest",
+    "traverse": "latest",
+    "zone.js": "0.8.12"
+  },
+  "devDependencies": {
+    "babel-core": "latest",
+    "babel-loader": "latest",
+    "babel-plugin-transform-decorators-legacy": "latest",
+    "babel-preset-angular2": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-stage-0": "latest",
+    "css-loader": "latest",
+    "extract-text-webpack-plugin": "latest",
+    "file-loader": "latest",
+    "html-loader": "latest",
+    "html-webpack-plugin": "latest",
+    "loader-utils": "latest",
+    "raw-loader": "latest",
+    "style-loader": "latest",
+    "webpack": "latest"
+  }
+}

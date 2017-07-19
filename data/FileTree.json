@@ -1,0 +1,3108 @@
+[
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/js/routes/getbodypiclist.js",
+                "title": "getbodypiclist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/js/routes/getjsondata.js",
+                "title": "getjsondata.js"
+              }
+            ],
+            "nodeid": "BergstromGardens/js/routes",
+            "title": "routes",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "BergstromGardens/js/routes.js",
+            "title": "routes.js"
+          },
+          {
+            "children": [],
+            "nodeid": "BergstromGardens/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "BergstromGardens/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/about/about.page.jsx",
+                    "title": "about.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/about/about.text.js",
+                    "title": "about.text.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/about",
+                "title": "about",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/articles/articles.page.jsx",
+                    "title": "articles.page.jsx"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/articles",
+                "title": "articles",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/common/app.style.jsx",
+                    "title": "app.style.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/common/nav.bar.jsx",
+                    "title": "nav.bar.jsx"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/common",
+                "title": "common",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/garden/garden.page.jsx",
+                    "title": "garden.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/garden/garden.text.js",
+                    "title": "garden.text.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/garden",
+                "title": "garden",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/about.popup.jsx",
+                        "title": "about.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/articles.popup.jsx",
+                        "title": "articles.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/garden.popup.jsx",
+                        "title": "garden.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/home.popup.jsx",
+                        "title": "home.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/identify.popup.jsx",
+                        "title": "identify.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/palmapp.popup.jsx",
+                        "title": "palmapp.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/pop.style.js",
+                        "title": "pop.style.js"
+                      }
+                    ],
+                    "nodeid": "BergstromGardens/ui-src/components/home/popups",
+                    "title": "popups",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/home/home.logo.jsx",
+                    "title": "home.logo.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/home/home.page.jsx",
+                    "title": "home.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/home/home.style.js",
+                    "title": "home.style.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/home",
+                "title": "home",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/identify/identify.page.jsx",
+                    "title": "identify.page.jsx"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/identify",
+                "title": "identify",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/palmapp/palmapp.page.jsx",
+                    "title": "palmapp.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/palmapp/palmapp.style.js",
+                    "title": "palmapp.style.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/palmapp",
+                "title": "palmapp",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/ui-src/components/app.ctrl.jsx",
+                "title": "app.ctrl.jsx"
+              }
+            ],
+            "nodeid": "BergstromGardens/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/ui-src/css/index.css",
+                "title": "index.css"
+              }
+            ],
+            "nodeid": "BergstromGardens/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/store/app/app.actions.js",
+                    "title": "app.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/store/app/app.reducer.js",
+                    "title": "app.reducer.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/store/app",
+                "title": "app",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/store/pics/pics.actions.js",
+                    "title": "pics.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/store/pics/pics.reducer.js",
+                    "title": "pics.reducer.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/store/pics",
+                "title": "pics",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              },
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/ui-src/store/api.actions.js",
+                "title": "api.actions.js"
+              }
+            ],
+            "nodeid": "BergstromGardens/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "BergstromGardens/ui-src/app.jsx",
+            "title": "app.jsx"
+          },
+          {
+            "children": [],
+            "nodeid": "BergstromGardens/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "BergstromGardens/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "BergstromGardens/package.json",
+        "title": "package.json"
+      },
+      {
+        "children": [],
+        "nodeid": "BergstromGardens/webpack.config.js",
+        "title": "webpack.config.js"
+      },
+      {
+        "children": [],
+        "nodeid": "BergstromGardens/webpack.config.json",
+        "title": "webpack.config.json"
+      }
+    ],
+    "nodeid": "BergstromGardens",
+    "title": "BergstromGardens",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "Clippets/__tests__/.setup.js",
+            "title": ".setup.js"
+          },
+          {
+            "children": [],
+            "nodeid": "Clippets/__tests__/app.ctrl.test.jsx",
+            "title": "app.ctrl.test.jsx"
+          }
+        ],
+        "nodeid": "Clippets/__tests__",
+        "title": "__tests__",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "Clippets/data/SnipData.json",
+            "title": "SnipData.json"
+          },
+          {
+            "children": [],
+            "nodeid": "Clippets/data/TreeData.json",
+            "title": "TreeData.json"
+          },
+          {
+            "children": [],
+            "nodeid": "Clippets/data/windowstate.json",
+            "title": "windowstate.json"
+          }
+        ],
+        "nodeid": "Clippets/data",
+        "title": "data",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "Clippets/js/socket/getsetclipboard.js",
+                "title": "getsetclipboard.js"
+              },
+              {
+                "children": [],
+                "nodeid": "Clippets/js/socket/getsetdata.js",
+                "title": "getsetdata.js"
+              }
+            ],
+            "nodeid": "Clippets/js/socket",
+            "title": "socket",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "Clippets/js/mainipc.js",
+            "title": "mainipc.js"
+          },
+          {
+            "children": [],
+            "nodeid": "Clippets/js/mainsocket.js",
+            "title": "mainsocket.js"
+          },
+          {
+            "children": [],
+            "nodeid": "Clippets/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "Clippets/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "Clippets/ui-src/components/snipview/snip.buttons.jsx",
+                    "title": "snip.buttons.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "Clippets/ui-src/components/snipview/snip.ctrl.jsx",
+                    "title": "snip.ctrl.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "Clippets/ui-src/components/snipview/snip.detail.jsx",
+                    "title": "snip.detail.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "Clippets/ui-src/components/snipview/snip.list.jsx",
+                    "title": "snip.list.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "Clippets/ui-src/components/snipview/snip.listitem.jsx",
+                    "title": "snip.listitem.jsx"
+                  }
+                ],
+                "nodeid": "Clippets/ui-src/components/snipview",
+                "title": "snipview",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "Clippets/ui-src/components/treeview/tree.ctrl.jsx",
+                    "title": "tree.ctrl.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "Clippets/ui-src/components/treeview/tree.detail.jsx",
+                    "title": "tree.detail.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "Clippets/ui-src/components/treeview/tree.edit.jsx",
+                    "title": "tree.edit.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "Clippets/ui-src/components/treeview/tree.list.jsx",
+                    "title": "tree.list.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "Clippets/ui-src/components/treeview/tree.menu.jsx",
+                    "title": "tree.menu.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "Clippets/ui-src/components/treeview/tree.new.jsx",
+                    "title": "tree.new.jsx"
+                  }
+                ],
+                "nodeid": "Clippets/ui-src/components/treeview",
+                "title": "treeview",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "Clippets/ui-src/components/app.ctrl.jsx",
+                "title": "app.ctrl.jsx"
+              }
+            ],
+            "nodeid": "Clippets/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "Clippets/ui-src/css/index.css",
+                "title": "index.css"
+              }
+            ],
+            "nodeid": "Clippets/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "Clippets/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              },
+              {
+                "children": [],
+                "nodeid": "Clippets/ui-src/store/api.Actions.js",
+                "title": "api.Actions.js"
+              },
+              {
+                "children": [],
+                "nodeid": "Clippets/ui-src/store/api.ipc.js",
+                "title": "api.ipc.js"
+              },
+              {
+                "children": [],
+                "nodeid": "Clippets/ui-src/store/api.ws.js",
+                "title": "api.ws.js"
+              },
+              {
+                "children": [],
+                "nodeid": "Clippets/ui-src/store/snip.Actions.js",
+                "title": "snip.Actions.js"
+              },
+              {
+                "children": [],
+                "nodeid": "Clippets/ui-src/store/snip.Reducer.js",
+                "title": "snip.Reducer.js"
+              },
+              {
+                "children": [],
+                "nodeid": "Clippets/ui-src/store/tree.Actions.js",
+                "title": "tree.Actions.js"
+              },
+              {
+                "children": [],
+                "nodeid": "Clippets/ui-src/store/tree.Reducer.js",
+                "title": "tree.Reducer.js"
+              }
+            ],
+            "nodeid": "Clippets/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "Clippets/ui-src/app.jsx",
+            "title": "app.jsx"
+          },
+          {
+            "children": [],
+            "nodeid": "Clippets/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "Clippets/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "Clippets/README.md",
+        "title": "README.md"
+      },
+      {
+        "children": [],
+        "nodeid": "Clippets/config.json",
+        "title": "config.json"
+      },
+      {
+        "children": [],
+        "nodeid": "Clippets/main.js",
+        "title": "main.js"
+      },
+      {
+        "children": [],
+        "nodeid": "Clippets/package.json",
+        "title": "package.json"
+      },
+      {
+        "children": [],
+        "nodeid": "Clippets/undefinedwindowstate.json",
+        "title": "undefinedwindowstate.json"
+      },
+      {
+        "children": [],
+        "nodeid": "Clippets/webpack.config.js",
+        "title": "webpack.config.js"
+      },
+      {
+        "children": [],
+        "nodeid": "Clippets/webpack.config.json",
+        "title": "webpack.config.json"
+      }
+    ],
+    "nodeid": "Clippets",
+    "title": "Clippets",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "CodeViewer/__tests__/.setup.js",
+            "title": ".setup.js"
+          },
+          {
+            "children": [],
+            "nodeid": "CodeViewer/__tests__/app.ctrl.test.js",
+            "title": "app.ctrl.test.js"
+          }
+        ],
+        "nodeid": "CodeViewer/__tests__",
+        "title": "__tests__",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "CodeViewer/data/filelist.json",
+            "title": "filelist.json"
+          },
+          {
+            "children": [],
+            "nodeid": "CodeViewer/data/windowstate.json",
+            "title": "windowstate.json"
+          }
+        ],
+        "nodeid": "CodeViewer/data",
+        "title": "data",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "CodeViewer/js/drivelistJ/drivelist.js",
+                "title": "drivelist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "CodeViewer/js/drivelistJ/parse.js",
+                "title": "parse.js"
+              },
+              {
+                "children": [],
+                "nodeid": "CodeViewer/js/drivelistJ/scripts.js",
+                "title": "scripts.js"
+              }
+            ],
+            "nodeid": "CodeViewer/js/drivelistJ",
+            "title": "drivelistJ",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "CodeViewer/js/routes/GetSetData.js",
+                "title": "GetSetData.js"
+              },
+              {
+                "children": [],
+                "nodeid": "CodeViewer/js/routes/readDirTree.js",
+                "title": "readDirTree.js"
+              },
+              {
+                "children": [],
+                "nodeid": "CodeViewer/js/routes/readTree.js",
+                "title": "readTree.js"
+              }
+            ],
+            "nodeid": "CodeViewer/js/routes",
+            "title": "routes",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "CodeViewer/js/mainipc.js",
+            "title": "mainipc.js"
+          },
+          {
+            "children": [],
+            "nodeid": "CodeViewer/js/mainskt.js",
+            "title": "mainskt.js"
+          },
+          {
+            "children": [],
+            "nodeid": "CodeViewer/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "CodeViewer/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "CodeViewer/ui-src/components/app.ctrl.jsx",
+                "title": "app.ctrl.jsx"
+              },
+              {
+                "children": [],
+                "nodeid": "CodeViewer/ui-src/components/file.ctrl.jsx",
+                "title": "file.ctrl.jsx"
+              },
+              {
+                "children": [],
+                "nodeid": "CodeViewer/ui-src/components/tree.ctrl.jsx",
+                "title": "tree.ctrl.jsx"
+              }
+            ],
+            "nodeid": "CodeViewer/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "CodeViewer/ui-src/css/index.css",
+                "title": "index.css"
+              },
+              {
+                "children": [],
+                "nodeid": "CodeViewer/ui-src/css/twilightj.css",
+                "title": "twilightj.css"
+              }
+            ],
+            "nodeid": "CodeViewer/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "CodeViewer/ui-src/store/api/api.Actions.js",
+                    "title": "api.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "CodeViewer/ui-src/store/api/api.ipc.js",
+                    "title": "api.ipc.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "CodeViewer/ui-src/store/api/api.ws.js",
+                    "title": "api.ws.js"
+                  }
+                ],
+                "nodeid": "CodeViewer/ui-src/store/api",
+                "title": "api",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "CodeViewer/ui-src/store/file/file.Actions.js",
+                    "title": "file.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "CodeViewer/ui-src/store/file/file.Reducer.js",
+                    "title": "file.Reducer.js"
+                  }
+                ],
+                "nodeid": "CodeViewer/ui-src/store/file",
+                "title": "file",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "CodeViewer/ui-src/store/tree/tree.Actions.js",
+                    "title": "tree.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "CodeViewer/ui-src/store/tree/tree.Reducer.js",
+                    "title": "tree.Reducer.js"
+                  }
+                ],
+                "nodeid": "CodeViewer/ui-src/store/tree",
+                "title": "tree",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "CodeViewer/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              }
+            ],
+            "nodeid": "CodeViewer/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "CodeViewer/ui-src/app.jsx",
+            "title": "app.jsx"
+          },
+          {
+            "children": [],
+            "nodeid": "CodeViewer/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "CodeViewer/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "CodeViewer/README.md",
+        "title": "README.md"
+      },
+      {
+        "children": [],
+        "nodeid": "CodeViewer/config.json",
+        "title": "config.json"
+      },
+      {
+        "children": [],
+        "nodeid": "CodeViewer/main.js",
+        "title": "main.js"
+      },
+      {
+        "children": [],
+        "nodeid": "CodeViewer/package.json",
+        "title": "package.json"
+      },
+      {
+        "children": [],
+        "nodeid": "CodeViewer/webpack.config.js",
+        "title": "webpack.config.js"
+      },
+      {
+        "children": [],
+        "nodeid": "CodeViewer/webpack.config.json",
+        "title": "webpack.config.json"
+      }
+    ],
+    "nodeid": "CodeViewer",
+    "title": "CodeViewer",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "JMarkStevens/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "JMarkStevens/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/common/app.colors.js",
+                    "title": "app.colors.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/common/app.style.jsx",
+                    "title": "app.style.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/common/nav.bar.jsx",
+                    "title": "nav.bar.jsx"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/common",
+                "title": "common",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/contact/contact.page.jsx",
+                    "title": "contact.page.jsx"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/contact",
+                "title": "contact",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/examples/examples.page.jsx",
+                    "title": "examples.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/examples/examples.pop.jsx",
+                    "title": "examples.pop.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/examples/examples.style.js",
+                    "title": "examples.style.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/examples/examples.text.js",
+                    "title": "examples.text.js"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/examples",
+                "title": "examples",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home/home.page.jsx",
+                    "title": "home.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home/home.text.js",
+                    "title": "home.text.js"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/home",
+                "title": "home",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home2/home.page.jsx",
+                    "title": "home.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home2/home.pop.jsx",
+                    "title": "home.pop.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home2/home.sec1.jsx",
+                    "title": "home.sec1.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home2/home.text.js",
+                    "title": "home.text.js"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/home2",
+                "title": "home2",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/resume/resume.page.jsx",
+                    "title": "resume.page.jsx"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/resume",
+                "title": "resume",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/components/app.ctrl.jsx",
+                "title": "app.ctrl.jsx"
+              }
+            ],
+            "nodeid": "JMarkStevens/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/css/darkula.css",
+                "title": "darkula.css"
+              },
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/css/index.css",
+                "title": "index.css"
+              },
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/css/markedarea.css",
+                "title": "markedarea.css"
+              },
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/css/twilightj.css",
+                "title": "twilightj.css"
+              }
+            ],
+            "nodeid": "JMarkStevens/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/store/app/app.actions.js",
+                    "title": "app.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/store/app/app.reducer.js",
+                    "title": "app.reducer.js"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/store/app",
+                "title": "app",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              }
+            ],
+            "nodeid": "JMarkStevens/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "JMarkStevens/ui-src/app.jsx",
+            "title": "app.jsx"
+          },
+          {
+            "children": [],
+            "nodeid": "JMarkStevens/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "JMarkStevens/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "JMarkStevens/package.json",
+        "title": "package.json"
+      },
+      {
+        "children": [],
+        "nodeid": "JMarkStevens/webpack.config.js",
+        "title": "webpack.config.js"
+      },
+      {
+        "children": [],
+        "nodeid": "JMarkStevens/webpack.config.json",
+        "title": "webpack.config.json"
+      }
+    ],
+    "nodeid": "JMarkStevens",
+    "title": "JMarkStevens",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/dist/filterList.json",
+                "title": "filterList.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/dist/genuslist.json",
+                "title": "genuslist.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/dist/imagelist.json",
+                "title": "imagelist.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/dist/specieslist.json",
+                "title": "specieslist.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/dist/specieslistZ.json",
+                "title": "specieslistZ.json"
+              }
+            ],
+            "nodeid": "PalmApp/data/dist",
+            "title": "dist",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/Adobe_com.json",
+                "title": "Adobe_com.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/IPTC-Std2016.json",
+                "title": "IPTC-Std2016.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/IPTC2016.json",
+                "title": "IPTC2016.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/NodeExiftool_AcA_01.json",
+                "title": "NodeExiftool_AcA_01.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/NodeExiftool_Adobe_com-PalmInfo.json",
+                "title": "NodeExiftool_Adobe_com-PalmInfo.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/NodeExiftool_BrAr_07.json",
+                "title": "NodeExiftool_BrAr_07.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/NodeExiftool_WaR_04.json",
+                "title": "NodeExiftool_WaR_04.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/NodeExiftool_WaR_04jms.json",
+                "title": "NodeExiftool_WaR_04jms.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/NodeExiftool_genus.json",
+                "title": "NodeExiftool_genus.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/NodeExiftool_misc-src.json",
+                "title": "NodeExiftool_misc-src.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/NodeExiftool_readWrite0.json",
+                "title": "NodeExiftool_readWrite0.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/NodeExiftool_readWrite1.json",
+                "title": "NodeExiftool_readWrite1.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/adobeexif.json",
+                "title": "adobeexif.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/genus.json",
+                "title": "genus.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/iptc-palmInfo.json",
+                "title": "iptc-palmInfo.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/iptc_palmInfo.json",
+                "title": "iptc_palmInfo.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/readWrite2a.json",
+                "title": "readWrite2a.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/readWrite2b.json",
+                "title": "readWrite2b.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/readWrite3a.json",
+                "title": "readWrite3a.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/specieslistZ.json",
+                "title": "specieslistZ.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/misc-out/zzlist.json",
+                "title": "zzlist.json"
+              }
+            ],
+            "nodeid": "PalmApp/data/misc-out",
+            "title": "misc-out",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/src/FilterListPreCount.json",
+                "title": "FilterListPreCount.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/data/src/palmlist.json",
+                "title": "palmlist.json"
+              }
+            ],
+            "nodeid": "PalmApp/data/src",
+            "title": "src",
+            "closed": true
+          }
+        ],
+        "nodeid": "PalmApp/data",
+        "title": "data",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/admin/filterListCount.js",
+                "title": "filterListCount.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/admin/imageCaptions.js",
+                "title": "imageCaptions.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/admin/imagelist.js",
+                "title": "imagelist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/admin/palmlist.js",
+                "title": "palmlist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/admin/prepinfo.js",
+                "title": "prepinfo.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/admin/prepinfo.text.js",
+                "title": "prepinfo.text.js"
+              }
+            ],
+            "nodeid": "PalmApp/js/admin",
+            "title": "admin",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/misc/exifone.js",
+                "title": "exifone.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/misc/gardenexif.js",
+                "title": "gardenexif.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/misc/palmlistC.js",
+                "title": "palmlistC.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/misc/palmlistZ.js",
+                "title": "palmlistZ.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/misc/testexif.js",
+                "title": "testexif.js"
+              }
+            ],
+            "nodeid": "PalmApp/js/misc",
+            "title": "misc",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/routes/getbodypiclist.js",
+                "title": "getbodypiclist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/js/routes/getjsondata.js",
+                "title": "getjsondata.js"
+              }
+            ],
+            "nodeid": "PalmApp/js/routes",
+            "title": "routes",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "PalmApp/js/routes.js",
+            "title": "routes.js"
+          },
+          {
+            "children": [],
+            "nodeid": "PalmApp/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "PalmApp/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/components/common/app.style.jsx",
+                    "title": "app.style.jsx"
+                  }
+                ],
+                "nodeid": "PalmApp/ui-src/components/common",
+                "title": "common",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/components/help/help.page.jsx",
+                    "title": "help.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/components/help/help.text.js",
+                    "title": "help.text.js"
+                  }
+                ],
+                "nodeid": "PalmApp/ui-src/components/help",
+                "title": "help",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/header/filter.ctrl.jsx",
+                        "title": "filter.ctrl.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/header/header.ctrl.jsx",
+                        "title": "header.ctrl.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/header/jump.ctrl.jsx",
+                        "title": "jump.ctrl.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/header/modal.help.jsx",
+                        "title": "modal.help.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/header/modal.select.jsx",
+                        "title": "modal.select.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/header/tips.text.js",
+                        "title": "tips.text.js"
+                      }
+                    ],
+                    "nodeid": "PalmApp/ui-src/components/species/header",
+                    "title": "header",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/info_column/info.actions.jsx",
+                        "title": "info.actions.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/info_column/info.children.jsx",
+                        "title": "info.children.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/info_column/info.children.list.jsx",
+                        "title": "info.children.list.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/info_column/info.cover.jsx",
+                        "title": "info.cover.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/info_column/info.ctrl.jsx",
+                        "title": "info.ctrl.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/info_column/info.info.jsx",
+                        "title": "info.info.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmApp/ui-src/components/species/info_column/info.pic.jsx",
+                        "title": "info.pic.jsx"
+                      }
+                    ],
+                    "nodeid": "PalmApp/ui-src/components/species/info_column",
+                    "title": "info_column",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/components/species/species.page.jsx",
+                    "title": "species.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/components/species/thumb.column.jsx",
+                    "title": "thumb.column.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/components/species/thumb.column.list.jsx",
+                    "title": "thumb.column.list.jsx"
+                  }
+                ],
+                "nodeid": "PalmApp/ui-src/components/species",
+                "title": "species",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/ui-src/components/app.ctrl.jsx",
+                "title": "app.ctrl.jsx"
+              }
+            ],
+            "nodeid": "PalmApp/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmApp/ui-src/css/index.css",
+                "title": "index.css"
+              }
+            ],
+            "nodeid": "PalmApp/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/store/app/app.actions.js",
+                    "title": "app.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/store/app/app.reducer.js",
+                    "title": "app.reducer.js"
+                  }
+                ],
+                "nodeid": "PalmApp/ui-src/store/app",
+                "title": "app",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/store/info/info.actions.js",
+                    "title": "info.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/store/info/info.reducer.js",
+                    "title": "info.reducer.js"
+                  }
+                ],
+                "nodeid": "PalmApp/ui-src/store/info",
+                "title": "info",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/store/pics/pics.actions.js",
+                    "title": "pics.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmApp/ui-src/store/pics/pics.reducer.js",
+                    "title": "pics.reducer.js"
+                  }
+                ],
+                "nodeid": "PalmApp/ui-src/store/pics",
+                "title": "pics",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmApp/ui-src/store/api.actions.js",
+                "title": "api.actions.js"
+              }
+            ],
+            "nodeid": "PalmApp/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "PalmApp/ui-src/app.jsx",
+            "title": "app.jsx"
+          },
+          {
+            "children": [],
+            "nodeid": "PalmApp/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "PalmApp/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "PalmApp/package.json",
+        "title": "package.json"
+      },
+      {
+        "children": [],
+        "nodeid": "PalmApp/webpack.config.js",
+        "title": "webpack.config.js"
+      },
+      {
+        "children": [],
+        "nodeid": "PalmApp/webpack.config.json",
+        "title": "webpack.config.json"
+      }
+    ],
+    "nodeid": "PalmApp",
+    "title": "PalmApp",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/dist/filterList.json",
+                "title": "filterList.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/dist/genuslist.json",
+                "title": "genuslist.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/dist/imagelist.json",
+                "title": "imagelist.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/dist/specieslist.json",
+                "title": "specieslist.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/dist/specieslistZ.json",
+                "title": "specieslistZ.json"
+              }
+            ],
+            "nodeid": "PalmInfo/data/dist",
+            "title": "dist",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/Adobe_com.json",
+                "title": "Adobe_com.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/IPTC-Std2016.json",
+                "title": "IPTC-Std2016.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/IPTC2016.json",
+                "title": "IPTC2016.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/NodeExiftool_AcA_01.json",
+                "title": "NodeExiftool_AcA_01.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/NodeExiftool_Adobe_com-PalmInfo.json",
+                "title": "NodeExiftool_Adobe_com-PalmInfo.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/NodeExiftool_BrAr_07.json",
+                "title": "NodeExiftool_BrAr_07.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/NodeExiftool_WaR_04.json",
+                "title": "NodeExiftool_WaR_04.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/NodeExiftool_WaR_04jms.json",
+                "title": "NodeExiftool_WaR_04jms.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/NodeExiftool_genus.json",
+                "title": "NodeExiftool_genus.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/NodeExiftool_misc-src.json",
+                "title": "NodeExiftool_misc-src.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/NodeExiftool_readWrite0.json",
+                "title": "NodeExiftool_readWrite0.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/NodeExiftool_readWrite1.json",
+                "title": "NodeExiftool_readWrite1.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/adobeexif.json",
+                "title": "adobeexif.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/genus.json",
+                "title": "genus.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/iptc-palmInfo.json",
+                "title": "iptc-palmInfo.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/iptc_palmInfo.json",
+                "title": "iptc_palmInfo.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/readWrite2a.json",
+                "title": "readWrite2a.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/readWrite2b.json",
+                "title": "readWrite2b.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/readWrite3a.json",
+                "title": "readWrite3a.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/specieslistZ.json",
+                "title": "specieslistZ.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/misc-out/zzlist.json",
+                "title": "zzlist.json"
+              }
+            ],
+            "nodeid": "PalmInfo/data/misc-out",
+            "title": "misc-out",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/src/FilterListPreCount.json",
+                "title": "FilterListPreCount.json"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/data/src/palmlist.json",
+                "title": "palmlist.json"
+              }
+            ],
+            "nodeid": "PalmInfo/data/src",
+            "title": "src",
+            "closed": true
+          }
+        ],
+        "nodeid": "PalmInfo/data",
+        "title": "data",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/admin/filterListCount.js",
+                "title": "filterListCount.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/admin/imageCaptions.js",
+                "title": "imageCaptions.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/admin/imagelist.js",
+                "title": "imagelist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/admin/palmlist.js",
+                "title": "palmlist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/admin/prepinfo.js",
+                "title": "prepinfo.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/admin/prepinfo.text.js",
+                "title": "prepinfo.text.js"
+              }
+            ],
+            "nodeid": "PalmInfo/js/admin",
+            "title": "admin",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/misc/exifone.js",
+                "title": "exifone.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/misc/gardenexif.js",
+                "title": "gardenexif.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/misc/palmlistC.js",
+                "title": "palmlistC.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/misc/palmlistZ.js",
+                "title": "palmlistZ.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/misc/testexif.js",
+                "title": "testexif.js"
+              }
+            ],
+            "nodeid": "PalmInfo/js/misc",
+            "title": "misc",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/routes/getbodypiclist.js",
+                "title": "getbodypiclist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/js/routes/getjsondata.js",
+                "title": "getjsondata.js"
+              }
+            ],
+            "nodeid": "PalmInfo/js/routes",
+            "title": "routes",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "PalmInfo/js/routes.js",
+            "title": "routes.js"
+          },
+          {
+            "children": [],
+            "nodeid": "PalmInfo/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "PalmInfo/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmInfo/ui-src/components/common/app.style.jsx",
+                    "title": "app.style.jsx"
+                  }
+                ],
+                "nodeid": "PalmInfo/ui-src/components/common",
+                "title": "common",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmInfo/ui-src/components/help/help.page.jsx",
+                    "title": "help.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmInfo/ui-src/components/help/help.text.js",
+                    "title": "help.text.js"
+                  }
+                ],
+                "nodeid": "PalmInfo/ui-src/components/help",
+                "title": "help",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/header/filter.ctrl.jsx",
+                        "title": "filter.ctrl.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/header/header.ctrl.jsx",
+                        "title": "header.ctrl.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/header/jump.ctrl.jsx",
+                        "title": "jump.ctrl.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/header/modal.help.jsx",
+                        "title": "modal.help.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/header/modal.select.jsx",
+                        "title": "modal.select.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/header/tips.text.js",
+                        "title": "tips.text.js"
+                      }
+                    ],
+                    "nodeid": "PalmInfo/ui-src/components/species/header",
+                    "title": "header",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/info_column/info.actions.jsx",
+                        "title": "info.actions.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/info_column/info.children.jsx",
+                        "title": "info.children.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/info_column/info.children.list.jsx",
+                        "title": "info.children.list.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/info_column/info.cover.jsx",
+                        "title": "info.cover.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/info_column/info.ctrl.jsx",
+                        "title": "info.ctrl.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/info_column/info.info.jsx",
+                        "title": "info.info.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/info_column/info.pic.jsx",
+                        "title": "info.pic.jsx"
+                      }
+                    ],
+                    "nodeid": "PalmInfo/ui-src/components/species/info_column",
+                    "title": "info_column",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/thumbs/column.ctrl.jsx",
+                        "title": "column.ctrl.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/thumbs/flow.ctrl.jsx",
+                        "title": "flow.ctrl.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/thumbs/rowflow.ctrl.jsx",
+                        "title": "rowflow.ctrl.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/thumbs/thumb.button.jsx",
+                        "title": "thumb.button.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/thumbs/thumb.column.item.jsx",
+                        "title": "thumb.column.item.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/thumbs/thumb.column.jsx",
+                        "title": "thumb.column.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/thumbs/thumb.flow.item.jsx",
+                        "title": "thumb.flow.item.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/thumbs/thumb.flow.jsx",
+                        "title": "thumb.flow.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/thumbs/thumb.row.item.jsx",
+                        "title": "thumb.row.item.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "PalmInfo/ui-src/components/species/thumbs/thumb.row.jsx",
+                        "title": "thumb.row.jsx"
+                      }
+                    ],
+                    "nodeid": "PalmInfo/ui-src/components/species/thumbs",
+                    "title": "thumbs",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmInfo/ui-src/components/species/species.page.jsx",
+                    "title": "species.page.jsx"
+                  }
+                ],
+                "nodeid": "PalmInfo/ui-src/components/species",
+                "title": "species",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/ui-src/components/app.ctrl.jsx",
+                "title": "app.ctrl.jsx"
+              }
+            ],
+            "nodeid": "PalmInfo/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmInfo/ui-src/css/index.css",
+                "title": "index.css"
+              }
+            ],
+            "nodeid": "PalmInfo/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmInfo/ui-src/store/app/app.actions.js",
+                    "title": "app.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmInfo/ui-src/store/app/app.reducer.js",
+                    "title": "app.reducer.js"
+                  }
+                ],
+                "nodeid": "PalmInfo/ui-src/store/app",
+                "title": "app",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmInfo/ui-src/store/info/info.actions.js",
+                    "title": "info.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmInfo/ui-src/store/info/info.reducer.js",
+                    "title": "info.reducer.js"
+                  }
+                ],
+                "nodeid": "PalmInfo/ui-src/store/info",
+                "title": "info",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmInfo/ui-src/store/pics/pics.actions.js",
+                    "title": "pics.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmInfo/ui-src/store/pics/pics.reducer.js",
+                    "title": "pics.reducer.js"
+                  }
+                ],
+                "nodeid": "PalmInfo/ui-src/store/pics",
+                "title": "pics",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmInfo/ui-src/store/api.actions.js",
+                "title": "api.actions.js"
+              }
+            ],
+            "nodeid": "PalmInfo/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "PalmInfo/ui-src/app.jsx",
+            "title": "app.jsx"
+          },
+          {
+            "children": [],
+            "nodeid": "PalmInfo/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "PalmInfo/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "PalmInfo/.eslintrc.js",
+        "title": ".eslintrc.js"
+      },
+      {
+        "children": [],
+        "nodeid": "PalmInfo/package.json",
+        "title": "package.json"
+      },
+      {
+        "children": [],
+        "nodeid": "PalmInfo/webpack.config.js",
+        "title": "webpack.config.js"
+      },
+      {
+        "children": [],
+        "nodeid": "PalmInfo/webpack.config.json",
+        "title": "webpack.config.json"
+      }
+    ],
+    "nodeid": "PalmInfo",
+    "title": "PalmInfo",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "jmsExamples/js/routes/GetPicList.js",
+                "title": "GetPicList.js"
+              }
+            ],
+            "nodeid": "jmsExamples/js/routes",
+            "title": "routes",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "jmsExamples/js/routes.js",
+            "title": "routes.js"
+          },
+          {
+            "children": [],
+            "nodeid": "jmsExamples/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "jmsExamples/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "jmsExamples/ui-src/components/app.ctrl.jsx",
+                "title": "app.ctrl.jsx"
+              }
+            ],
+            "nodeid": "jmsExamples/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "jmsExamples/ui-src/css/index.css",
+                "title": "index.css"
+              }
+            ],
+            "nodeid": "jmsExamples/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "jmsExamples/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              },
+              {
+                "children": [],
+                "nodeid": "jmsExamples/ui-src/store/api.Actions.js",
+                "title": "api.Actions.js"
+              }
+            ],
+            "nodeid": "jmsExamples/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "jmsExamples/ui-src/app.jsx",
+            "title": "app.jsx"
+          },
+          {
+            "children": [],
+            "nodeid": "jmsExamples/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "jmsExamples/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "jmsExamples/README.md",
+        "title": "README.md"
+      },
+      {
+        "children": [],
+        "nodeid": "jmsExamples/package.json",
+        "title": "package.json"
+      },
+      {
+        "children": [],
+        "nodeid": "jmsExamples/webpack.config.js",
+        "title": "webpack.config.js"
+      },
+      {
+        "children": [],
+        "nodeid": "jmsExamples/webpack.config.json",
+        "title": "webpack.config.json"
+      }
+    ],
+    "nodeid": "jmsExamples",
+    "title": "jmsExamples",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "ngClippets/data/SnipData.json",
+            "title": "SnipData.json"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/data/TreeData.json",
+            "title": "TreeData.json"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/data/TreeDataState.json",
+            "title": "TreeDataState.json"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/data/windowstate.json",
+            "title": "windowstate.json"
+          }
+        ],
+        "nodeid": "ngClippets/data",
+        "title": "data",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngClippets/js/getset/GetSetJson.js",
+                "title": "GetSetJson.js"
+              }
+            ],
+            "nodeid": "ngClippets/js/getset",
+            "title": "getset",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/js/mainipc.js",
+            "title": "mainipc.js"
+          }
+        ],
+        "nodeid": "ngClippets/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Button/jms-button.css",
+                    "title": "jms-button.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Button/jms-button.html",
+                    "title": "jms-button.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Button/jms-button.js",
+                    "title": "jms-button.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/common/Button",
+                "title": "Button",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Input/jms-input.css",
+                    "title": "jms-input.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Input/jms-input.html",
+                    "title": "jms-input.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Input/jms-input.js",
+                    "title": "jms-input.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/common/Input",
+                "title": "Input",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/TreeView/jms-tree-view.css",
+                    "title": "jms-tree-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/TreeView/jms-tree-view.html",
+                    "title": "jms-tree-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/TreeView/jms-tree-view.js",
+                    "title": "jms-tree-view.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/common/TreeView",
+                "title": "TreeView",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/common/common.declarations.js",
+                "title": "common.declarations.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/common/common.module.js",
+                "title": "common.module.js"
+              }
+            ],
+            "nodeid": "ngClippets/ui-src/common",
+            "title": "common",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/SnipView/actions/sv-action.data.js",
+                        "title": "sv-action.data.js"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/SnipView/actions/sv-actions.css",
+                        "title": "sv-actions.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/SnipView/actions/sv-actions.html",
+                        "title": "sv-actions.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/SnipView/actions/sv-actions.js",
+                        "title": "sv-actions.js"
+                      }
+                    ],
+                    "nodeid": "ngClippets/ui-src/components/SnipView/actions",
+                    "title": "actions",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/SnipView/snip-view.css",
+                    "title": "snip-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/SnipView/snip-view.html",
+                    "title": "snip-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/SnipView/snip-view.js",
+                    "title": "snip-view.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/components/SnipView",
+                "title": "SnipView",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/TreeView/actions/tv-action.data.js",
+                        "title": "tv-action.data.js"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/TreeView/actions/tv-actions.css",
+                        "title": "tv-actions.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/TreeView/actions/tv-actions.html",
+                        "title": "tv-actions.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/TreeView/actions/tv-actions.js",
+                        "title": "tv-actions.js"
+                      }
+                    ],
+                    "nodeid": "ngClippets/ui-src/components/TreeView/actions",
+                    "title": "actions",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/TreeView/tree-view.css",
+                    "title": "tree-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/TreeView/tree-view.html",
+                    "title": "tree-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/TreeView/tree-view.js",
+                    "title": "tree-view.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/components/TreeView",
+                "title": "TreeView",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/components/app-component.css",
+                "title": "app-component.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/components/app-component.html",
+                "title": "app-component.html"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/components/app-component.js",
+                "title": "app-component.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/components/app.declarations.js",
+                "title": "app.declarations.js"
+              }
+            ],
+            "nodeid": "ngClippets/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/css/index.css",
+                "title": "index.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/css/rangeInput.css",
+                "title": "rangeInput.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/css/scrollbar.css",
+                "title": "scrollbar.css"
+              }
+            ],
+            "nodeid": "ngClippets/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/api/api.Actions.js",
+                    "title": "api.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/api/api.ipc.js",
+                    "title": "api.ipc.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/store/api",
+                "title": "api",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/snipview/snip.Actions.js",
+                    "title": "snip.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/snipview/snip.Reducer.js",
+                    "title": "snip.Reducer.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/store/snipview",
+                "title": "snipview",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/treeview/tree.Actions.js",
+                    "title": "tree.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/treeview/tree.Reducer.js",
+                    "title": "tree.Reducer.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/store/treeview",
+                "title": "treeview",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              }
+            ],
+            "nodeid": "ngClippets/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/ui-src/app.js",
+            "title": "app.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "ngClippets/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "ngClippets/wp/polyfills.js",
+            "title": "polyfills.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/wp/vendor.js",
+            "title": "vendor.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/wp/wp.config.js",
+            "title": "wp.config.js"
+          }
+        ],
+        "nodeid": "ngClippets/wp",
+        "title": "wp",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "ngClippets/README.md",
+        "title": "README.md"
+      },
+      {
+        "children": [],
+        "nodeid": "ngClippets/config.json",
+        "title": "config.json"
+      },
+      {
+        "children": [],
+        "nodeid": "ngClippets/main.js",
+        "title": "main.js"
+      },
+      {
+        "children": [],
+        "nodeid": "ngClippets/package.json",
+        "title": "package.json"
+      }
+    ],
+    "nodeid": "ngClippets",
+    "title": "ngClippets",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/data/FileTree.json",
+            "title": "FileTree.json"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/data/FileTreeState.json",
+            "title": "FileTreeState.json"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/data/windowstate.json",
+            "title": "windowstate.json"
+          }
+        ],
+        "nodeid": "ngCodeViewer/data",
+        "title": "data",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/js/routes/GetSetData.js",
+                "title": "GetSetData.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/js/routes/readTree.js",
+                "title": "readTree.js"
+              }
+            ],
+            "nodeid": "ngCodeViewer/js/routes",
+            "title": "routes",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/js/mainskt.js",
+            "title": "mainskt.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "ngCodeViewer/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Button/jms-button.css",
+                    "title": "jms-button.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Button/jms-button.html",
+                    "title": "jms-button.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Button/jms-button.js",
+                    "title": "jms-button.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/common/Button",
+                "title": "Button",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Input/jms-input.css",
+                    "title": "jms-input.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Input/jms-input.html",
+                    "title": "jms-input.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Input/jms-input.js",
+                    "title": "jms-input.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/common/Input",
+                "title": "Input",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/TreeView/jms-tree-view.css",
+                    "title": "jms-tree-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/TreeView/jms-tree-view.html",
+                    "title": "jms-tree-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/TreeView/jms-tree-view.js",
+                    "title": "jms-tree-view.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/common/TreeView",
+                "title": "TreeView",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/common/common.declarations.js",
+                "title": "common.declarations.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/common/common.module.js",
+                "title": "common.module.js"
+              }
+            ],
+            "nodeid": "ngCodeViewer/ui-src/common",
+            "title": "common",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/FileView/file-view.css",
+                    "title": "file-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/FileView/file-view.html",
+                    "title": "file-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/FileView/file-view.js",
+                    "title": "file-view.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/components/FileView",
+                "title": "FileView",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngCodeViewer/ui-src/components/TreeView/actions/tv-action.data.js",
+                        "title": "tv-action.data.js"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngCodeViewer/ui-src/components/TreeView/actions/tv-actions.css",
+                        "title": "tv-actions.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngCodeViewer/ui-src/components/TreeView/actions/tv-actions.html",
+                        "title": "tv-actions.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngCodeViewer/ui-src/components/TreeView/actions/tv-actions.js",
+                        "title": "tv-actions.js"
+                      }
+                    ],
+                    "nodeid": "ngCodeViewer/ui-src/components/TreeView/actions",
+                    "title": "actions",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/TreeView/tree-view.css",
+                    "title": "tree-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/TreeView/tree-view.html",
+                    "title": "tree-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/TreeView/tree-view.js",
+                    "title": "tree-view.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/components/TreeView",
+                "title": "TreeView",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/components/app-component.css",
+                "title": "app-component.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/components/app-component.html",
+                "title": "app-component.html"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/components/app-component.js",
+                "title": "app-component.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/components/app.declarations.js",
+                "title": "app.declarations.js"
+              }
+            ],
+            "nodeid": "ngCodeViewer/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/css/index.css",
+                "title": "index.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/css/scrollbar.css",
+                "title": "scrollbar.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/css/twilightj.css",
+                "title": "twilightj.css"
+              }
+            ],
+            "nodeid": "ngCodeViewer/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/api/api.Actions.js",
+                    "title": "api.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/api/api.ws.js",
+                    "title": "api.ws.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/store/api",
+                "title": "api",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/file/file.Actions.js",
+                    "title": "file.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/file/file.Reducer.js",
+                    "title": "file.Reducer.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/store/file",
+                "title": "file",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/tree/tree.Actions.js",
+                    "title": "tree.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/tree/tree.Reducer.js",
+                    "title": "tree.Reducer.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/store/tree",
+                "title": "tree",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              }
+            ],
+            "nodeid": "ngCodeViewer/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/ui-src/app.js",
+            "title": "app.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "ngCodeViewer/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/wp/polyfills.js",
+            "title": "polyfills.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/wp/vendor.js",
+            "title": "vendor.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/wp/wp.config.js",
+            "title": "wp.config.js"
+          }
+        ],
+        "nodeid": "ngCodeViewer/wp",
+        "title": "wp",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "ngCodeViewer/README.md",
+        "title": "README.md"
+      },
+      {
+        "children": [],
+        "nodeid": "ngCodeViewer/config.json",
+        "title": "config.json"
+      },
+      {
+        "children": [],
+        "nodeid": "ngCodeViewer/package.json",
+        "title": "package.json"
+      }
+    ],
+    "nodeid": "ngCodeViewer",
+    "title": "ngCodeViewer",
+    "closed": true
+  },
+  {
+    "children": [],
+    "nodeid": "temp.jsx",
+    "title": "temp.jsx"
+  }
+]
