@@ -1,5 +1,5 @@
 const initialFileState = {
-  fileData: ''
+  fileData: '',
 };
 
 export default function handleActions(state = initialFileState, action) {
@@ -7,7 +7,7 @@ export default function handleActions(state = initialFileState, action) {
     case 'GetFileDataDone':
       return {
         ...state,
-        fileData: action.data
+        fileData: action.data,
       };
     default:
       return state;

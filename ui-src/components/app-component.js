@@ -1,8 +1,10 @@
-import {Component} from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-component',
   template: require('./app-component.html'),
-  styles: [require('./app-component.css')]
+  styles: [require('./app-component.css')],
 })
-export class AppComponent {}
+class AppComponent {}
+
+export default AppComponent;

@@ -1,17 +1,28 @@
 import * as fileActions from '../file/file.Actions';
 import * as treeActions from '../tree/tree.Actions';
 
-var socket = null;
+let socket = null;
 
 export function wsMiddleware() {
-  return (next) => (action) => {
+  return next => (action) => {
     if (socket) {
       switch (action.type) {
-        case 'ApiReadTree': socket.emit('client:readTree'); break;
-        case 'ApiGetFileData': socket.emit('client:getFileData', action.data); break;
-        case 'ApiGetTreeData': socket.emit('client:getTreeData'); break;
-        case 'ApiGetTreeDataState': socket.emit('client:getTreeDataState'); break;
-        case 'ApiSetTreeDataState': socket.emit('client:setTreeDataState', action.data); break;
+        case 'ApiReadTree':
+          socket.emit('client:readTree');
+          break;
+        case 'ApiGetFileData':
+          socket.emit('client:getFileData', action.data);
+          break;
+        case 'ApiGetTreeData':
+          socket.emit('client:getTreeData');
+          break;
+        case 'ApiGetTreeDataState':
+          socket.emit('client:getTreeDataState');
+          break;
+        case 'ApiSetTreeDataState':
+          socket.emit('client:setTreeDataState', action.data);
+          break;
+        default: break;
       }
     }
     return next(action);

@@ -1,16 +1,16 @@
-import {Component, ChangeDetectorRef} from '@angular/core';
-import {NgRedux} from '@angular-redux/store';
+import { Component, ChangeDetectorRef, OnDestroy } from '@angular/core';
+import { NgRedux } from '@angular-redux/store';
 
-import {saveTreeState, setCurrentItem, treeActions} from '../../store/tree/tree.Actions';
+import { saveTreeState } from '../../store/tree/tree.Actions';
 
 @Component({
   selector: 'tree-view',
   template: require('./tree-view.html'),
-  styles: [require('./tree-view.css')]
+  styles: [require('./tree-view.css')],
 })
-export class TreeView implements OnDestroy{
-  iconOptions = {icons: {0: './img/sun.ico', 1: './img/leaf.ico'}, node: 'showChildren'};
-  titleColors = {normal: '#CDA869', selected: '#CF6A4C'};
+class TreeView implements OnDestroy {
+  iconOptions = { icons: { 0: './img/sun.ico', 1: './img/leaf.ico' }, node: 'showChildren' };
+  titleColors = { normal: '#CDA869', selected: '#CF6A4C' };
   tvState = {};
 
   constructor(changeDetectorRef, ngRedux) {
@@ -24,14 +24,16 @@ export class TreeView implements OnDestroy{
     this.unsubscribe();
   }
 
-  onItemSelected = item => {
+  onItemSelected = () => {
     this.ngRedux.dispatch(saveTreeState(this.tvState));
-  }
+  };
 
-  subscribeToState = first => {
+  subscribeToState = (first) => {
     this.treeList = this.ngRedux.getState().treeState.treeData;
     this.tvState = this.ngRedux.getState().treeState.tvState;
     if (!first) this.changeDetectorRef.detectChanges();
-  }
+  };
 }
 TreeView.parameters = [[ChangeDetectorRef], [NgRedux]];
+
+export default TreeView;

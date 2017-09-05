@@ -1,6 +1,7 @@
-
 export function apiReadTree() {
-  return {type: 'ApiReadTree'};
+  return { type: 'ApiReadTree' };
 }
 
-export function apiSetTreeDataState(data) { return {type: 'ApiSetTreeDataState', data}; }
+export function apiSetTreeDataState(data) {
+  return { type: 'ApiSetTreeDataState', data };
+}
